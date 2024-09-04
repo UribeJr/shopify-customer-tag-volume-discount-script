@@ -1,2 +1,5 @@
-# shopify-customer-tag-volume-discount-script
-This scripts creates an automatic discount based off their customer tag and also creates an automatic discount based off $ spent. This compares all applicable discounts and only applies the largest one. (Either Loyalty/VIP discount or Volume)
+# Shopify Discount Script
+
+This discount script combines automatic discounts based off a customer tag and volume discounts based off $$ Spent.
+If you qualify for both a customer tagged VIP discount and a volume discount. This script will then compare which discount is larger and only apply the higher discount of the two. This prevents two discounts stacking on top of eachother. 
+
